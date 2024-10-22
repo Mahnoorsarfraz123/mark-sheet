@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   
+    background: linear-gradient(to right,rgb(237, 230, 213),
+    rgba(204, 210, 211, 0.877),rgb(252, 232, 218));
+    width: 100%;
+    height: 100vh;
+    font-family: sans-serif;
+
+}
+#report-card{
+    color: rgb(97, 7, 99);
+    font-size: 2.5rem;
+    text-align: center;
+    line-height: 3.5rem;
+    margin-top: 2rem;
+   padding: 0 6rem;
+   letter-spacing: normal;
+  
+    
+
+    
+}
+h1{
+    color: rgb(49, 6, 88);
+    text-align: center;
+    letter-spacing: 0.1rem;
+    margin-top: 7rem;
+    font-size: 4rem;
+    line-height: 3.8rem;
+}
+strong{
+    color: rgb(67, 83, 25);
+   
+}
